@@ -1,4 +1,4 @@
-Cathybook::Application.routes.draw do
+Treebook::Application.routes.draw do
   resources :statuses
 
 
